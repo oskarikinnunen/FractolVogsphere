@@ -1,4 +1,4 @@
-# FractolVogsphere
+# Fractol
 Multithreaded fractal renderer written in c, supports three different fractals and multiple psychedelic color modes.
 
 ## Features
